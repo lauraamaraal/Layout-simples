@@ -24,7 +24,3 @@ Este é um projeto pessoal de uma **lista de desejos de viagem**, onde compartil
 - 🎨 **Design aconchegante** - paleta de cores verde e dourado
 - 🏷️ **Tags personalizadas** - cada destino tem características únicas
 - 💫 **Sem JavaScript** - apenas HTML e CSS
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/minhas-viagens-dos-sonhos.git
